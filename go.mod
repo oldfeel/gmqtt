@@ -1,4 +1,4 @@
-module github.com/DrmagicE/gmqtt
+module github.com/oldfeel/gmqtt
 
 go 1.14
 
